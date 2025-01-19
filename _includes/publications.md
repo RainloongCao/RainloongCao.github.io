@@ -61,8 +61,8 @@ in stainless steel pipe welding</a></div>
     <div class="author"><strong>Runlong Cao</strong>, Jianqi Zhang, Yun Shen, Huanhuan Zhou, Peiying Zhou, Guowei Shen, Zhengwen Xia, Ying Zang, Qingshan Liu, Wenjun Hu</div>
     <div class="periodical"><em>The Visual Computer<strong></strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://github.com/RainloongCao/DFE-master/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://doi.org/10.1007/s00371-024-03757-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 1k+ Stars)
+      <a href="https://github.com/RainloongCao/DFE-master/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a>
+      <a href="https://doi.org/10.1007/s00371-024-03757-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
