@@ -7,11 +7,11 @@
 
 [//]: # (<h3>Vision Semantic Understanding & Multi-Modal Foundation Model</h3>)
 
-<li>
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tmm.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ins.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">INS</abbr>
   </div>
 
@@ -25,11 +25,9 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 
-  <li>
+
 
 
 <div class="pub-row">
@@ -51,7 +49,6 @@
   </div>
 </div>
 </li>
-<li>
 
   
 </ol>
