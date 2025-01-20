@@ -79,7 +79,7 @@ in stainless steel pipe welding</a></div>
     <div class="title"><a href="https://doi.org/10.1007/s00371-023-02988-7">MAPD: multi-receptive field and attention mechanism for multispectral pedestrian detection
 in stainless steel pipe welding</a></div>
     <div class="author">Ying Zang, <strong>Runlong Cao</strong>, Hui Li, Wenjun Hu, Qingshan Liu</div>
-    <div class="periodical"><em>The Visual Computer<strong></strong>, 2024.</em></div>
+    <div class="periodical"><em>The Visual Computer<strong></strong>, 2023.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1007/s00371-023-02988-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -118,7 +118,7 @@ in stainless steel pipe welding</a></div>
     <div class="title"><a href="">Joint dual-stream interaction and multi-scale feature extraction network for multi-spectral pedestrian detection
 in stainless steel pipe welding</a></div>
     <div class="author">Wenjun Hu, Chenglong Fu,<strong>Runlong Cao</strong>, Ying Zang, Xiao-Jun Wu, Shigen Shen, Xiao-Zhi Gao</div>
-    <div class="periodical"><em>Applied Soft Computing<strong></strong>, 2024.</em></div>
+    <div class="periodical"><em>Applied Soft Computing<strong></strong>, 2023.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1016/j.asoc.2023.110768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
