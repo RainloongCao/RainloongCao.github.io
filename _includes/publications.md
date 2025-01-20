@@ -101,7 +101,6 @@ in stainless steel pipe welding</a></div>
     <div class="author">Tianrun Chen, <strong>Runlong Cao</strong>, Zejian Li, Ying Zang, Lingyun SUN</div>
     <div class="periodical"><em>Frontiers of Information Technology & Electronic Engineering<strong></strong>, 2024.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a>
       <a href="https://doi.org/10.1631/FITEE.2300314" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
@@ -121,7 +120,6 @@ in stainless steel pipe welding</a></div>
     <div class="author">Wenjun Hu, Chenglong Fu,<strong>Runlong Cao</strong>, Ying Zang, Xiao-Jun Wu, Shigen Shen, Xiao-Zhi Gao</div>
     <div class="periodical"><em>>Applied Soft Computing<strong></strong>, 2024.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a>
       <a href="https://doi.org/10.1016/j.asoc.2023.110768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
