@@ -126,6 +126,25 @@ in stainless steel pipe welding</a></div>
 </div>
 </li>
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/icme.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICME</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">High-Fidelity 3D Model Generation with Relightable Appearance from Single Freehand Sketches and Text Guidance</a></div>
+    <div class="author">Tianrun Chen, <strong>Runlong Cao</strong>, Ankang Lu, Tao Xu, Xiaoling Zhang, Mao Papa, Ming Zhang, Lingyun Sun, Ying Zang</div>
+    <div class="periodical"><em>IEEE International Conference on Multimedia & Expo<strong></strong>, 2024.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 </ol>
 </div>
 
