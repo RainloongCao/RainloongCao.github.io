@@ -15,7 +15,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Resmatch: Referring expression segmentation in a semi-supervised manner</a>
 </div>
-    <div class="author">Ying Zang#, <strong>Runlong Cao#</strong>, Chenglong Fu(#=Equal Contribution), Didi Zhu, Min Zhang, Wenjun Hu, Lanyun Zhu, Tianrun Chen </div>
+    <div class="author">Ying Zang#, <strong>Runlong Cao#</strong>, Chenglong Fu#(#=Equal Contribution), Didi Zhu, Min Zhang, Wenjun Hu, Lanyun Zhu, Tianrun Chen </div>
     <div class="periodical"><em><strong>Information Sciences</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025524016232" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
