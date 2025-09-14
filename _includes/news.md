@@ -1,5 +1,9 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2024-12] One paper is accepted by TMM(IEEE Transactions on Multimedia)!
+<ul style="margin:0 0 5px;">
+[2024-12] One paper is accepted by TII(IEEE Transactions on Industrial Informatics)!
+<ul style="margin:0 0 5px;">
 [2024-12] One paper is accepted by the Visual Computer!
 </ul>
 <ul style="margin:0 0 5px;">
