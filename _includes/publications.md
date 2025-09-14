@@ -3,6 +3,28 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TMM.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TMM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches</a>
+</div>
+    <div class="author">Ying Zang, <strong>Runlong Cao</strong>, Jianqi Zhang, Yidong Han, Ziyue Cao, Wenjun Hu, Didi Zhu, Lanyun Zhu, Zejian Li, Deyi Ji, Tianrun Chen</div>
+    <div class="periodical"><em><strong>IEEE Transactions on Multimedia</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2501.19329" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
 
