@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master at Huzhou University, and have just been admitted to Ph.D. program at Nanjing University of Science and Technology.
+I have just been admitted to the Ph.D. program at Nanjing University of Science and Technology.
 
 [//]: # (## Research Interests)
 
