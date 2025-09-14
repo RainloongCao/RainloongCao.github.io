@@ -3,6 +3,25 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ins.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">INS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Img2CAD: Conditioned 3-D CAD Model Generation From Single Image With Structured Visual Geometry</a>
+</div>
+    <div class="author">Tianrun Chen, Chunan Yu, Yuanqi Hu, Jing Li, Tao Xu, <strong>Runlong Cao</strong>, Lanyun Zhu, Ying Zang, Yong Zhang, Zejian Li, Linyun Sun</div>
+    <div class="periodical"><em><strong>IEEE Transactions on Industrial Informatics</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11089972" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
