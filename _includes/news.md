@@ -1,5 +1,8 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2025-9] One paper is accepted by EAAI (Engineering Applications of Artificial Intelligence)!
+</ul>
+<ul style="margin:0 0 5px;">
 [2025-9] One paper is accepted by TMM (IEEE Transactions on Multimedia)!
 </ul>
 <ul style="margin:0 0 5px;">
