@@ -1,5 +1,11 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2025-10] One paper is accepted by Measurement!
+</ul>
+<ul style="margin:0 0 5px;">
+[2025-10] One paper is accepted by the Visual Computer!
+</ul>
+<ul style="margin:0 0 5px;">
 [2025-9] One paper is accepted by EAAI (Engineering Applications of Artificial Intelligence)!
 </ul>
 <ul style="margin:0 0 5px;">
