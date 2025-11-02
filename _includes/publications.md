@@ -7,14 +7,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/clothes.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ms.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Measurement</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">High-precision steel pipe size inspection using deep learning and geometric fitting</a>
 </div>
-    <div class="author">Xinyu Chen, Chaotao Ding, Jianqi Zhang,  <strong>Runlong Cao</strong>, Lanyun Zhu, Wenjun Hu, Ying Zang, Tianrun Chen</div>
+    <div class="author">Liangyou Li, Yuncan Gao, Kun Li, Yuan Zhu, <strong>Runlong Cao</strong>, Chunan Yu, Sajjad Hussain Chauhdary, Ying Zang</div>
     <div class="periodical"><em><strong>Measurement</strong>, 2025.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
