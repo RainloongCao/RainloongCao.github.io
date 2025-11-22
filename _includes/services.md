@@ -3,5 +3,5 @@
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  Applied Intelligence(APIN), The Journal of Supercomputing, PRCV, Signal, Image and Video Processing.
+  Applied Intelligence(APIN), The Journal of Supercomputing, PRCV, Scientific Reports, Signal, Image and Video Processing.
 </ul>
