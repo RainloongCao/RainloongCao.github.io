@@ -1,5 +1,8 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2026-5] One paper is accepted by ICML (International Conference on Machine Learning)!!
+</ul>
+<ul style="margin:0 0 5px;">
 [2025-10] One paper is accepted by Measurement!
 </ul>
 <ul style="margin:0 0 5px;">
