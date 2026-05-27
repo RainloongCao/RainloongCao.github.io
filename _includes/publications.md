@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation</a>
+    <div class="title"><a href="https://rainloongcao.github.io/Learning2Label/">Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation</a>
 </div>
     <div class="author"><strong>Runlong Cao</strong>, Ying Zang, Chuanwei Zhou, Tianrun Chen, Tong Zhang, Zhen Cui, Chunyan Xu</div>
     <div class="periodical"><em><strong>International Conference on Machine Learning</strong>, 2026.</em></div>
