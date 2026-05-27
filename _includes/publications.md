@@ -8,6 +8,27 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TMM.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation</a>
+</div>
+    <div class="author"><strong>Runlong Cao</strong>, Ying Zang, Chuanwei Zhou, Tianrun Chen, Tong Zhang, Zhen Cui, Chunyan Xu</div>
+    <div class="periodical"><em><strong>International Conference on Machine Learning</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://rainloongcao.github.io/Learning2Label/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TMM.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TMM</abbr>
   </div>
 
