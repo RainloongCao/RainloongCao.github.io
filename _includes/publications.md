@@ -19,7 +19,7 @@
     <div class="links">
       <a href="https://rainloongcao.github.io/Learning2Label/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
        <a href="https://github.com/RainloongCao/L2L-Pytorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2605.28239" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
