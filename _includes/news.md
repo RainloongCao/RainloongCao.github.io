@@ -1,9 +1,9 @@
 ## News
 <ul style="margin:0 0 5px;">
-[2026-7] One paper is accepted by MM (ACM Multimedia)!!
+<strong>[2026-7] One paper is accepted by MM (ACM Multimedia)!!</strong>
 </ul>
 <ul style="margin:0 0 5px;">
-[2026-5] One paper is accepted by ICML (International Conference on Machine Learning)!!
+<strong>[2026-5] One paper is accepted by ICML (International Conference on Machine Learning)!!</strong>
 </ul>
 <ul style="margin:0 0 5px;">
 [2025-10] One paper is accepted by Measurement!
