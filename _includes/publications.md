@@ -29,6 +29,37 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mm2026.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACM MM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+      <a href="#">
+        SAM3-Adapter: Hierarchically Learning Task-Adaptive Prompts for Fine-Grained Segmentation
+      </a>
+    </div>
+
+    <div class="author">
+      <strong>Runlong Cao</strong>, Tianrun Chen, Xinda Yu, Yuming Zhang, Ying Zang, Lanyun Zhu, Tong Zhang, Zhen Cui, Chunyan Xu
+    </div>
+
+    <div class="periodical">
+      <em><strong>ACM International Conference on Multimedia (ACM MM)</strong>, 2026.</em>
+    </div>
+
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TMM.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TMM</abbr>
   </div>
