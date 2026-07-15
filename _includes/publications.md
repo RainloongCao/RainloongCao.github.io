@@ -178,47 +178,6 @@ in stainless steel pipe welding</a></div>
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ms.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Measurement</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">High-precision steel pipe size inspection using deep learning and geometric fitting</a>
-</div>
-    <div class="author">Liangyou Li, Yuncan Gao, Kun Li, Yuan Zhu, <strong>Runlong Cao</strong>, Chunan Yu, Sajjad Hussain Chauhdary, Ying Zang</div>
-    <div class="periodical"><em><strong>Measurement</strong>, 2025.</em></div>
-    <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/clothes.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">The Visual Computer</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">DeepSketch2Wear: Democratizing 3D Garment Creation via Freehand Sketches and Text</a>
-</div>
-    <div class="author">Xinyu Chen, Chaotao Ding, Jianqi Zhang,  <strong>Runlong Cao</strong>, Lanyun Zhu, Wenjun Hu, Ying Zang, Tianrun Chen</div>
-    <div class="periodical"><em><strong>The Visual Computer</strong>, 2025.</em></div>
-    <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
 
 <li>
 <div class="pub-row">
@@ -240,7 +199,42 @@ in stainless steel pipe welding</a></div>
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/icme.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICME</abbr>
+  </div>
 
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">High-Fidelity 3D Model Generation with Relightable Appearance from Single Freehand Sketches and Text Guidance</a></div>
+    <div class="author">Tianrun Chen, <strong>Runlong Cao</strong>, Ankang Lu, Tao Xu, Xiaoling Zhang, Mao Papa, Ming Zhang, Lingyun Sun, Ying Zang</div>
+    <div class="periodical"><em>IEEE International Conference on Multimedia & Expo<strong></strong>, 2024.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/asc.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Applied Soft Computing</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Joint dual-stream interaction and multi-scale feature extraction network for multi-spectral pedestrian detection
+in stainless steel pipe welding</a></div>
+    <div class="author">Wenjun Hu, Chenglong Fu,<strong>Runlong Cao</strong>, Ying Zang, Xiao-Jun Wu, Shigen Shen, Xiao-Zhi Gao</div>
+    <div class="periodical"><em>Applied Soft Computing<strong></strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.1016/j.asoc.2023.110768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -265,18 +259,19 @@ in stainless steel pipe welding</a></div>
 
 <li>
 <div class="pub-row">
+
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/asc.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Applied Soft Computing</abbr>
+    <img src="assets/img/ms.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Measurement</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Joint dual-stream interaction and multi-scale feature extraction network for multi-spectral pedestrian detection
-in stainless steel pipe welding</a></div>
-    <div class="author">Wenjun Hu, Chenglong Fu,<strong>Runlong Cao</strong>, Ying Zang, Xiao-Jun Wu, Shigen Shen, Xiao-Zhi Gao</div>
-    <div class="periodical"><em>Applied Soft Computing<strong></strong>, 2023.</em></div>
+    <div class="title"><a href="">High-precision steel pipe size inspection using deep learning and geometric fitting</a>
+</div>
+    <div class="author">Liangyou Li, Yuncan Gao, Kun Li, Yuan Zhu, <strong>Runlong Cao</strong>, Chunan Yu, Sajjad Hussain Chauhdary, Ying Zang</div>
+    <div class="periodical"><em><strong>Measurement</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://doi.org/10.1016/j.asoc.2023.110768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -285,21 +280,24 @@ in stainless steel pipe welding</a></div>
 
 <li>
 <div class="pub-row">
+
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/icme.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICME</abbr>
+    <img src="assets/img/clothes.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">The Visual Computer</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">High-Fidelity 3D Model Generation with Relightable Appearance from Single Freehand Sketches and Text Guidance</a></div>
-    <div class="author">Tianrun Chen, <strong>Runlong Cao</strong>, Ankang Lu, Tao Xu, Xiaoling Zhang, Mao Papa, Ming Zhang, Lingyun Sun, Ying Zang</div>
-    <div class="periodical"><em>IEEE International Conference on Multimedia & Expo<strong></strong>, 2024.</em></div>
+    <div class="title"><a href="">DeepSketch2Wear: Democratizing 3D Garment Creation via Freehand Sketches and Text</a>
+</div>
+    <div class="author">Xinyu Chen, Chaotao Ding, Jianqi Zhang,  <strong>Runlong Cao</strong>, Lanyun Zhu, Wenjun Hu, Ying Zang, Tianrun Chen</div>
+    <div class="periodical"><em><strong>The Visual Computer</strong>, 2025.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
 </li>
+
 
 </ol>
 </div>
