@@ -138,6 +138,45 @@ in stainless steel pipe welding</a></div>
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mapd.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">The Visual Computer</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1007/s00371-023-02988-7">MAPD: multi-receptive field and attention mechanism for multispectral pedestrian detection
+in stainless steel pipe welding</a></div>
+    <div class="author">Ying Zang, <strong>Runlong Cao</strong>, Hui Li, Wenjun Hu, Qingshan Liu</div>
+    <div class="periodical"><em>The Visual Computer<strong></strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.1007/s00371-023-02988-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/FITEE.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">FITEE</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Deep3DSketch-im: rapid high-fidelity AI 3D model generation by single freehand sketches in stainless steel pipe welding</a></div>
+    <div class="author">Tianrun Chen, <strong>Runlong Cao</strong>, Zejian Li, Ying Zang, Lingyun SUN</div>
+    <div class="periodical"><em>Frontiers of Information Technology & Electronic Engineering<strong></strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.1631/FITEE.2300314" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -223,49 +262,6 @@ in stainless steel pipe welding</a></div>
 </div>
 </li>
 
-
-
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mapd.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">The Visual Computer</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1007/s00371-023-02988-7">MAPD: multi-receptive field and attention mechanism for multispectral pedestrian detection
-in stainless steel pipe welding</a></div>
-    <div class="author">Ying Zang, <strong>Runlong Cao</strong>, Hui Li, Wenjun Hu, Qingshan Liu</div>
-    <div class="periodical"><em>The Visual Computer<strong></strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://doi.org/10.1007/s00371-023-02988-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/FITEE.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">FITEE</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Deep3DSketch-im: rapid high-fidelity AI 3D model generation by single freehand sketches in stainless steel pipe welding</a></div>
-    <div class="author">Tianrun Chen, <strong>Runlong Cao</strong>, Zejian Li, Ying Zang, Lingyun SUN</div>
-    <div class="periodical"><em>Frontiers of Information Technology & Electronic Engineering<strong></strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://doi.org/10.1631/FITEE.2300314" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
