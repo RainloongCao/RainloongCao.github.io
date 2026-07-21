@@ -25,7 +25,7 @@
 </div>
 </li>
 
-<!-- <li>
+ <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -41,7 +41,7 @@
     </div>
 
     <div class="author">
-      <strong>Runlong Cao</strong>, Tianrun Chen, Xinda Yu, Yuming Zhang, Ying Zang, Lanyun Zhu, Tong Zhang, Zhen Cui, Chunyan Xu
+      <strong>Runlong Cao</strong>, Yuming Zhang, Tianrun Chen, Xinda Yu, Ying Zang, Lanyun Zhu, Tong Zhang, Zhen Cui, Chunyan Xu
     </div>
 
     <div class="periodical">
@@ -51,7 +51,7 @@
     <div class="links">
       <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
-  </div> -->
+  </div>
 
 </div>
 </li>
