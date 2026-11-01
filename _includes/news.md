@@ -1,5 +1,8 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2026-9] One paper is accepted by the Visual Computer!!
+</ul>
+<ul style="margin:0 0 5px;">
 <strong>[2026-7] One paper is accepted by MM (ACM Multimedia)!!</strong>
 </ul>
 <ul style="margin:0 0 5px;">
